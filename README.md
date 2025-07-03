@@ -114,8 +114,8 @@ This dashboard mimics a real use case where hotel management can:
 
 **Vikas Kumar**  
 🎓 Data Analyst | BI Enthusiast | Lifelong Learner  
-📫 Reach out via [LinkedIn] www.linkedin.com/in/vikas-ku  
-🌐 Portfolio: 
+📫 Reach out via [LinkedIn](https://www.linkedin.com/in/vikas-ku)  
+🌐 Portfolio: *coming soon*
 
 ---
 
@@ -127,4 +127,3 @@ This project is for educational and portfolio purposes only. The data has been a
 
 > ✨ *Thank you for checking out this project! I hope it gives you valuable ideas for building impactful dashboards.*  
 Feel free to ⭐️ the repo or drop a message if you found this helpful.
-
